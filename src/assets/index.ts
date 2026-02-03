@@ -29,6 +29,9 @@ import Reward from "./company/Reward.png";
 import Store from "./company/Store.png";
 import The from "./company/The.png";
 import Algebrik from "./company/Algebrik.png";
+import Abhay from "./company/abhay.jpg";
+import addy from "./company/addy.jpg";
+import goni from "./company/Goni.jpg";
 
 import Event from "./company/Event.jpg";
 
@@ -62,5 +65,8 @@ export {
   Reward,
   Store,
   The,
-  Algebrik
+  Algebrik,
+  Abhay,
+  goni,
+  addy
 };
