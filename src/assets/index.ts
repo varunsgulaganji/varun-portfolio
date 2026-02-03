@@ -30,10 +30,6 @@ import Store from "./company/Store.png";
 import The from "./company/The.png";
 import Algebrik from "./company/Algebrik.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
-
 import Event from "./company/Event.jpg";
 
 export {
@@ -62,9 +58,6 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
-  jobit,
-  tripguide,
   Event,
   Reward,
   Store,
